@@ -1,0 +1,9 @@
+/home/diego/workplaceEmpresa/intraway/src/main/java/entity/InfoIntraway.java
+/home/diego/workplaceEmpresa/intraway/src/main/java/intraway/persistenceManager.java
+/home/diego/workplaceEmpresa/intraway/src/main/java/exceptions/badrequest.java
+/home/diego/workplaceEmpresa/intraway/src/main/java/intraway/infointrawayInterface.java
+/home/diego/workplaceEmpresa/intraway/src/main/java/intraway/Application.java
+/home/diego/workplaceEmpresa/intraway/src/main/java/controller/IntrawayController.java
+/home/diego/workplaceEmpresa/intraway/src/main/java/intraway/SpringBootWildflyApplication.java
+/home/diego/workplaceEmpresa/intraway/src/main/java/dao/infoIntrawayDao.java
+/home/diego/workplaceEmpresa/intraway/src/main/java/intraway/hibernateUtil.java
